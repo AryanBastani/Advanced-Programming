@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<style>
+   body {
+  background-color: rgb(121, 70, 4);
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid rgb(11, 121, 168);
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 25%;
+  background-color: #1503b6;
+  color: rgb(255, 255, 255);
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #17aaba;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #5cecd8;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+<div>
+  <form action="/signup" method="get">
+  <input type="submit" value="Signup"></input></form>
+  <form action="/ask_trip" method="get">
+  <input type="submit" value="Ask_trip"></input></form>
+  <form action="/cancel_trip" method="get">
+  <input type="submit" value="Cancel_trip"></input></form>
+  <form action="/before_show" method="get">
+  <input type="submit" value="Show_trip"></input></form>
+</div>
+</body>
+</html>
