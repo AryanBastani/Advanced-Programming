@@ -36,21 +36,3 @@ Once the installation is complete, you can start using Utaxi by following these 
 
 5. The application will match clients with available drivers and provide real-time updates on the trip status.
 
-## Contributing
-
-Contributions to the Utaxi project are welcome. If you would like to contribute, please follow these guidelines:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes and ensure they are properly tested.
-
-4. Commit your changes and push them to your forked repository.
-
-5. Submit a pull request, explaining the changes you have made.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
