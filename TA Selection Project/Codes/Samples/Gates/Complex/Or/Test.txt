@@ -1,0 +1,9 @@
+add or 1 2 3 4
+add or 5 6 7 8
+put 2 1
+print 5
+print 1
+put 6 0
+put 7 0
+print 5
+print 1

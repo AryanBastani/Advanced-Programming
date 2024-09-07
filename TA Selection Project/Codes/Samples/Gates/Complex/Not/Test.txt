@@ -1,0 +1,8 @@
+add not 1 2 3
+add not 4 5 6
+put 2 0
+print 4
+print 1
+put 5 1
+print 4
+print 1

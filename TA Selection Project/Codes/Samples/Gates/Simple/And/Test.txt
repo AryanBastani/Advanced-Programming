@@ -1,0 +1,10 @@
+add and 1 10 11 12 13
+print 1
+put 10 1
+print 1
+put 12 0
+print 1
+put 12 1
+print 1
+put 11 1
+print 1
